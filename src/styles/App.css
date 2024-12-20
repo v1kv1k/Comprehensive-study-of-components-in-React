@@ -1,0 +1,25 @@
+.todo-list {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.add-todo {
+  margin-bottom: 20px;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px 10px;
+} 
